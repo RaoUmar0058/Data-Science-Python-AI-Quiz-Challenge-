@@ -1,2 +1,10 @@
-# Data-Science-Python-AI-Quiz-Challenge-
-Data Science &amp; Python Quiz Challenge HTML, Tailwind CSS, Vanilla JS, LocalStorage Dynamic UI: Developed a framework-free web app managing responsive screens via active DOM manipulation. State &amp; Data: Injected quiz matrices dynamically with real-time input validation. Timers: Engineered 15s asynchronous countdowns using JS intervals. 
+🚀 Data Science & Python AI Quiz Challenge
+Tech Stack: HTML5, Tailwind CSS, Vanilla JavaScript, Web Storage API.
+Overview
+The Data Science & Python AI Quiz Challenge is a sleek, browser-based web application designed to gamify technical assessments. Built entirely from scratch using pure Vanilla JavaScript, this project bypasses heavy frontend frameworks to demonstrate core proficiency in native web APIs, state-driven development, and responsive UI design using Tailwind CSS. It serves as an interactive portfolio piece highlighting an understanding of both web development and foundational data science concepts.
+Core Architectural Features
+State-Driven DOM Manipulation: The application manages user progression across multiple screens (Start, Quiz, and Results) dynamically. Instead of relying on multi-page routing, it handles the visual state seamlessly by manipulating DOM elements and toggling utility classes at runtime.
+Dynamic Data Rendering: Questions, multiple-choice options, and correct answer keys are structured within a centralized JavaScript array matrix. The application evaluates this data matrix in real-time, injecting HTML components and binding active event listeners dynamically as the user advances.
+Asynchronous Time Management: To simulate a real-world testing environment, the application features an asynchronous 15-second countdown timer for each question. This is engineered using JavaScript’s setInterval and clearInterval functions, incorporating automated fail-safe logic that registers a timeout as an incorrect attempt.
+Client-Side Persistence: Player progression and achievements are tracked locally. The system integrates the browser's LocalStorage API to fetch, compare, and permanently write high scores, ensuring data persistence even after full page refreshes or session closures.
+Modern Developer Experience (DX): Styled with a clean, terminal-inspired aesthetic utilizing the JetBrains Mono font, the interface offers a cohesive look. It includes a built-in dark/light mode toggle, responsive CSS grid layouts, and smooth transition animations to deliver a premium user experience on both desktop and mobile devices.
