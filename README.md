@@ -3,7 +3,8 @@
 A high-performance, browser-based web application designed to gamify technical assessments for developers. Built entirely from scratch using pure Vanilla JavaScript, this project bypasses heavy frontend frameworks to demonstrate core proficiency in native web APIs and clean DOM architecture.
 
 ## 🔗 Live Demo
-quiz-challenge-rosy.vercel.app
+quiz-challenge-bt4k1tqir-khadija-rao-s-projects.vercel.app
+
 ---
 
 ## 🛠️ Tech Stack
